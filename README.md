@@ -4,3 +4,5 @@ Latest windows 10 or 11
 WARNING IF YOU USE BAN TRACE REMOVER YOUR DEVICE MAY SUFFER ISSUES PLEASE WAIT UNTIL IT IS OUT OF BETA OR RISK IT!
 
 Download from releases in the middle on the right!
+
+if you want to try to improve or look through the source code download Fallen Spoofer.zip!
